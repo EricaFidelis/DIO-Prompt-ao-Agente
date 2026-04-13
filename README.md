@@ -36,11 +36,11 @@ O objetivo é utilizar o NotebookLM para consolidar conhecimentos sobre como int
 📚 Curadoria de Fontes
 Para alimentar a inteligência do meu caderno no NotebookLM, selecionei as seguintes fontes (substitua pelos links ou PDFs que você usou):
 1.	Repositório Base: https://github.com/EricaFidelis/Automa-ao-de-e-mails
-2.	
-3.	Documentação: Disponivel no mesmo repositório citado acima. .
-4.	
-5.	Guia Prático: "Melhores práticas para segurança em scripts de automação" (Focado em variáveis de ambiente e proteção de credenciais).
-6.	
+	
+2.	Documentação: Disponivel no mesmo repositório citado acima. .
+  
+3.	Guia Prático: "Melhores práticas para segurança em scripts de automação" (Focado em variáveis de ambiente e proteção de credenciais).
+	
 🧠 Engenharia de Prompts
 Aqui registro o processo de refinamento das consultas para extrair o melhor da IA:
 •	Prompt 1 (Visão Geral): "Com base no código do repositório da Erica Fidelis,  https://github.com/EricaFidelis/Automa-ao-de-e-mails explique de forma simples como a automação lida com o envio em massa de e-mails."
@@ -59,7 +59,7 @@ A automação substitui o clique manual pelo processamento em lote, seguindo qua
 1.	Conexão: O script "disca" para o servidor (ex: smtp.gmail.com) usando a porta 587 (padrão para conexões seguras TLS).
 2.	Construção: O Python utiliza a biblioteca email.message para montar o "envelope" (Assunto, De, Para) e o "conteúdo" (Corpo em texto ou HTML).
 3.	Disparo: Um laço de repetição (for) percorre a lista de contatos, enviando um por um e finalizando a sessão ao terminar.
-4.	
+	
 ________________________________________
 🔍 Glossário Técnico
 •	SMTP: O "carteiro" digital. É o protocolo que leva sua mensagem do script até o servidor do destinatário.
