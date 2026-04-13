@@ -1,9 +1,7 @@
-# Roteiro-de-carreira-
-DIO CI&amp;T - Do Prompt ao Agente
 # Bootcamp CI&T - Do Prompt ao Agente 🚀
 
 <p align="center">
-  <img src="./image_bdfdfd.png" alt="Selo Do Prompt ao Agente CI&T" width="200">
+  <img src="selo.png" alt="Selo Do Prompt ao Agente CI&T" width="200">
 </p>
 
 <p align="center">
@@ -13,30 +11,16 @@ DIO CI&amp;T - Do Prompt ao Agente
 </p>
 
 ## 📌 Sobre o Projeto
-Este repositório contém a compilação dos desafios e projetos práticos desenvolvidos durante o bootcamp **Do Prompt ao Agente**, realizado pela **CI&T** em parceria com a **DIO**. O foco principal é explorar o potencial da Inteligência Artificial, desde a engenharia de prompts até a criação de agentes inteligentes.
-
-## 🛠️ Tecnologias e Ferramentas
-* **IA Generativa:** (Ex: ChatGPT, Claude, Gemini)
-* **Engenharia de Prompt**
-* **Copilot**
-* **Automação com IA**
+Este repositório contém os desafios e projetos práticos desenvolvidos durante o bootcamp **Do Prompt ao Agente**, realizado pela **CI&T** em parceria com a **DIO**. O foco é explorar o potencial da Inteligência Artificial Generativa.
 
 ## 📂 Desafios Realizados
 
-Abaixo, os links e descrições dos prompts e roteiros desenvolvidos:
-
-1. **Roteiro de Carreira com IA**
-   * Descrição: Utilização de IA para planejar passos de evolução profissional.
-   * [Acessar Chat 1](https://copilot.microsoft.com/chats/TKhXcpBUSv4puSxiF71bs)
-   * [Acessar Chat 2](https://copilot.microsoft.com/chats/LqVeWKeN4TLAcCcaWqJPf)
-
-2. **[Nome do Próximo Desafio]**
-   * Descrição: Breve explicação do que foi feito.
+| Desafio | Link do Chat/Projeto |
+| :--- | :--- |
+| **Roteiro de Carreira 01** | [Acessar Copilot](https://copilot.microsoft.com/chats/TKhXcpBUSv4puSxiF71bs) |
+| **Roteiro de Carreira 02** | [Acessar Copilot](https://copilot.microsoft.com/chats/LqVeWKeN4TLAcCcaWqJPf) |
 
 ## ✍️ Autora
 **Erica Franco Fidelis**
 * [LinkedIn](https://www.linkedin.com/in/ericafrancofidelis/)
 * [GitHub](https://github.com/EricaFidelis)
-
----
-⭐️ Se este repositório te ajudou de alguma forma, não esqueça de deixar uma estrela!
